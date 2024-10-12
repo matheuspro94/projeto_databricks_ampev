@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu projeto de pipeline de dados criado no Databricks Community:
-
----
-
 # Projeto: Pipeline de Dados com Databricks Community
 
 Este projeto utiliza o **Databricks Community Edition** para construir um pipeline de dados, seguindo o conceito de arquitetura em **medalhão** (Bronze, Silver e Gold). Abaixo estão os detalhes do pipeline e o processo de transformação de dados.
